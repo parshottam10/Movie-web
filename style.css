@@ -1,0 +1,67 @@
+body {
+    background-color: rgba(0, 0, 0, 0.692);
+    color: white;
+}
+
+.movie-card {
+    margin-bottom: 20px;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.61);
+    border: 1px solid #555;
+}
+
+.card-body {
+    color: white;
+}
+
+li >.sign{
+   color: white;
+   
+}
+li >.login{
+    color: white;
+ }
+.card-img-top {
+    height: 300px; 
+    width: 100%; 
+    object-fit: contain; 
+}
+
+.card:hover {
+    border-color: #fff;
+}
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.card-link:hover {
+    text-decoration: none;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.card-text {
+    color: #ddd;
+    margin-bottom: 0.5rem;
+}
+
+.navbar {
+    position: relative;
+}
+
+.navbar-nav {
+    margin-left: auto; 
+}
+
+.nav-item {
+    margin-right: 15px; 
+}
+
